@@ -1,4 +1,4 @@
-const BASE_URL = "https://jointest-9b595-default-rtdb.europe-west1.firebasedatabase.app";
+const BASE_URL = "https://join-f9d88-default-rtdb.europe-west1.firebasedatabase.app/";
 
 /**
  * Fetches JSON data from the backend for the given path.
